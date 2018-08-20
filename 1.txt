@@ -1,0 +1,13 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"artistViewUrl":"https://itunes.apple.com/cn/developer/hu-nan-xiao-er-mei-ke-ji-you/id1104323575?uo=4", "artworkUrl60":"http://is1.mzstatic.com/image/thumb/Purple60/v4/75/c8/d6/75c8d603-7924-ea64-5ae5-2dd03670f021/source/60x60bb.jpg", "artworkUrl100":"http://is1.mzstatic.com/image/thumb/Purple60/v4/75/c8/d6/75c8d603-7924-ea64-5ae5-2dd03670f021/source/100x100bb.jpg", 
+"screenshotUrls":["http://a4.mzstatic.com/us/r30/Purple60/v4/6e/26/8b/6e268b97-84e8-d4df-eb21-cd4122f187c8/screen1136x1136.jpeg", "http://a5.mzstatic.com/us/r30/Purple18/v4/db/06/32/db0632dc-af89-2615-b040-77b0dc937af1/screen1136x1136.jpeg", "http://a3.mzstatic.com/us/r30/Purple60/v4/e2/46/23/e2462365-2b2e-7692-3a9d-c79a023831f4/screen1136x1136.jpeg", "http://a3.mzstatic.com/us/r30/Purple20/v4/a3/7c/0d/a37c0db1-eb25-d283-ee4c-791b6ab0b90f/screen1136x1136.jpeg"], "ipadScreenshotUrls":[], "appletvScreenshotUrls":[], "artworkUrl512":"http://is1.mzstatic.com/image/thumb/Purple60/v4/75/c8/d6/75c8d603-7924-ea64-5ae5-2dd03670f021/source/512x512bb.jpg", "isGameCenterEnabled":false, "kind":"software", "features":[], 
+"supportedDevices":["iPad2Wifi", "iPad23G", "iPhone4S", "iPadThirdGen", "iPadThirdGen4G", "iPhone5", "iPodTouchFifthGen", "iPadFourthGen", "iPadFourthGen4G", "iPadMini", "iPadMini4G", "iPhone5c", "iPhone5s", "iPhone6", "iPhone6Plus", "iPodTouchSixthGen"], "advisories":["无限制网页访问"], "trackCensoredName":"农卖通", "trackViewUrl":"https://itunes.apple.com/cn/app/nong-mai-tong/id1124268731?mt=8&uo=4", "contentAdvisoryRating":"17+", "languageCodesISO2A":["ZH"], "fileSizeBytes":"7706394", "sellerUrl":"https://fenxiao.mytim.cn", "trackContentRating":"17+", "currency":"CNY", "wrapperType":"software", "version":"1.0.1", 
+"description":"农卖通是一款融合移动互联网特色的网络分销操作系统农产品销售电商应用，为用户提供一个农产品销售平台，帮助农户们快速销售农产品，同时也为分销商们提供大量优质的货源。\n\n功能介绍\n　　农卖通是一款融合移动互联网特色的网络分销操作系统，通过分销会员，可帮助企业快速实现微信分销、朋友圈代销、线下批发、连锁加盟等多渠道布局。\n　　农卖通通过主店+无数分店的模式，让农产品供货商拉动与分销商之间在订单协作、商品信息、库存管理、渠道沟通等业务环节的紧密协作，形成稳定有效的移动商圈，迎接互联网+时代的渠道销售模式变革。\n其中移动端主要是在线产品发布，农产品展示，在线订单管理，银行卡绑定，为用户更方便的操作。", "artistId":1104323575, "artistName":"湖南小而美科技有限公司", "genres":["商务", "购物"], "price":0.00, "bundleId":"app.mytim.distribution", "trackName":"农卖通", "trackId":1124268731, "releaseDate":"2016-06-22T16:43:20Z", "primaryGenreName":"Business", "primaryGenreId":6000, "isVppDeviceBasedLicensingEnabled":true, "sellerName":"Hunan Small And Beautiful Technology Co., Ltd.", "minimumOsVersion":"8.0", "currentVersionReleaseDate":"2016-07-01T18:27:04Z", "releaseNotes":"1.发布产品页可添加产品详细信息功能。\n2.修改产品详细信息功能。", "formattedPrice":"免费", "genreIds":["6000", "6024"]}]
+}
+
+
